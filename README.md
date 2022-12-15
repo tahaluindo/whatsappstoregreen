@@ -1,4 +1,4 @@
-# Whatstore
+# Whatstoregreen
 
 Whatsapp Business app to implement a chat-based e-commerce store
 
@@ -55,8 +55,8 @@ Data is stored as JSON objects with the RedisJSON module.
 Download the repo.
 
 ```sh
-git clone https://github.com/davidedelpapa/whatstore.git
-cd whatstore
+git clone https://github.com/tahaluindo/whatsappstoregreen.git
+cd whatsappstoregreen
 ```
 
 Rename the *sample.env.js* and store there your credentials for RedisHub and Whatsapp Business.
